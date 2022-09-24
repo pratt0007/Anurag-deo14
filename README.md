@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Anurag Deo.</h1>
 <h3 align="center">Student and an aspiring Software Development Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.3dnames.co/previews/ps28/250x250/a/ps28anurag3dxx.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
+<img align="right" alt="Coding" width="200" src="https://cdn.3dnames.co/previews/ps28/250x250/a/ps28anurag3dxx.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurag-deo14&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-deo14" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics & Communication(2021-2025) from National Institute of Technology Raipur
 - 🔭 <samp>Schooled from PCM stream from DAV Public School SECL Bishrampur, CBSE Board - 94.2%
@@ -60,6 +60,6 @@
   <img src="https://profile-counter.glitch.me/Anurag-deo14/count.svg" />
 </p>
   
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Anurag-deo14/Anurag-deo14/blob/output/github-contribution-grid-snake.svg)
  
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
