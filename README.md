@@ -61,4 +61,4 @@
 </p>
   
  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+<img align="right" alt="Coding" width="100vw" src="https://armory.visualsoldiers.com/wp-content/uploads/2020/01/goey-footer.gif">
