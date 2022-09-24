@@ -61,4 +61,4 @@
 </p>
   
  
-<img align="right" alt="Coding" width="100vw" src="https://armory.visualsoldiers.com/wp-content/uploads/2020/01/goey-footer.gif">
+<img align="right" alt="Coding" width="100%" height ="30" src="https://armory.visualsoldiers.com/wp-content/uploads/2020/01/goey-footer.gif">
