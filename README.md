@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Anurag Deo.</h1>
 <h3 align="center">Student and an aspiring Software Development Engineer.</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn.3dnames.co/previews/ps28/250x250/a/ps28anurag3dxx.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurag-deo14&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-deo14" /> </p>
+<p align="left"> <img src="https://media1.giphy.com/media/RJVw6tIfb2dIwTHFb0/200w.webp?cid=ecf05e479tlz3gg4hkhb7hj7h49yphi0i7mrdv8fkvjjsvol&rid=200w.webp&ct=g" alt="Anurag-deo14" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics & Communication(2021-2025) from National Institute of Technology Raipur
 - 🔭 <samp>Schooled in PCM stream from DAV Public School SECL Bishrampur, CBSE Board - 94.2%
