@@ -60,5 +60,5 @@
   <img src="https://profile-counter.glitch.me/Anurag-deo14/count.svg" />
 </p>
   
- 
+![snake svg](https://github.com/Anurag-deo14/Anurag-deo14/blob/output/github-contribution-grid-snake.svg) 
 <img align="right" alt="Coding" width="100%" height="450" src="https://i.pinimg.com/originals/b3/a1/79/b3a179f37b4fb80e5ba1e7f1eed38f60.gif">
