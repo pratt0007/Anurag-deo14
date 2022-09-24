@@ -61,4 +61,4 @@
 </p>
   
  
-<img align="right" alt="Coding" width="100%" height="250" src="https://i.pinimg.com/originals/b3/a1/79/b3a179f37b4fb80e5ba1e7f1eed38f60.gif">
+<img align="right" alt="Coding" width="100%" height="450" src="https://i.pinimg.com/originals/b3/a1/79/b3a179f37b4fb80e5ba1e7f1eed38f60.gif">
