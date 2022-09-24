@@ -48,7 +48,7 @@
   <a href="https://github.com/Anurag-deo14"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Anurag-deo14&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anurag-deo14&theme=radical" />
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag-deo14&show_icons=true&locale=en&theme=dracula" alt="virajchandra51"/>
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag-deo14&show_icons=true&locale=en&theme=dracula" alt="Anurag-deo14"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anurag-deo14&theme=dracula" />
     </span></a>
   
