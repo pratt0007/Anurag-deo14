@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anurag-deo14&label=Profile%20views&color=0e75b6&style=flat" alt="Anurag-deo14" /> </p>
 
 - 👷 <samp>Currently pursuing B.Tech in Electronics & Communication(2021-2025) from National Institute of Technology Raipur
-- 🔭 <samp>Schooled from PCM stream from DAV Public School SECL Bishrampur, CBSE Board - 94.2%
+- 🔭 <samp>Schooled in PCM stream from DAV Public School SECL Bishrampur, CBSE Board - 94.2%
 - 💬 <samp>Ask me about CP/Html/CSS/Tailwind/VanillaJs/React/Node
 - 🌱 <samp>I’m currently learning Frontend/Backend Development
 - 📫 <samp>How to reach me anuragjee2020@gmail.com
