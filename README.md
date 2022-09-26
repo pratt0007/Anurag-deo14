@@ -61,4 +61,5 @@
 </p>
   
 ![snake svg](https://github.com/Anurag-deo14/Anurag-deo14/blob/output/github-contribution-grid-snake.svg) 
-<img align="right" alt="Coding" width="70%" height="35%" src="https://i.pinimg.com/originals/b3/a1/79/b3a179f37b4fb80e5ba1e7f1eed38f60.gif">
+  
+<img align="center" alt="Coding" width="70%" height="35%" src="https://i.pinimg.com/originals/b3/a1/79/b3a179f37b4fb80e5ba1e7f1eed38f60.gif">
